@@ -1,0 +1,11 @@
+{
+  "Id": "GazeBeGone",
+  "DisplayName": "Gaze Be Gone	",
+  "Author": "Jarinex",
+  "Version": "0.0.1",
+  "ManagerVersion": "0.13.0",
+  "Requirements": [],
+  "AssemblyName": "GazeBeGone.dll",
+  "HomePage": "",
+  "EntryMethod": "GazeBeGone.Main.Load"
+}
